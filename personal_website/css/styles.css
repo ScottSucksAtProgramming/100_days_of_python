@@ -1,0 +1,26 @@
+  body {
+    background-color: #FEF5ED;
+  }
+
+  hr {
+    background-color: #FEF5ED;
+    border-style: dotted none none none;
+    border-radius: 100;
+    border-width: 7px;
+    border-color: #99A799;
+    height: 0;
+    width: 10%;
+  }
+
+  h1 {
+    color: #99A799;
+  }
+
+  h3 {
+    color: #ADC2A9;
+  }
+
+  .header-img {
+    border-radius: 100%;
+    height: 55%;
+  }

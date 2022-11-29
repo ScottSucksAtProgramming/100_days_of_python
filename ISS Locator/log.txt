@@ -1,0 +1,29 @@
+2021-08-21 18:17:10.319966 - The ISS is not close.
+
+2021-08-21 18:18:48.877808 - The ISS is not close.
+
+2021-08-21 18:19:27.476559 - The ISS is not close.
+
+2021-08-21 18:19:55.713039 - The ISS is not close.
+
+2021-08-21 18:20:58.649595 - It is not the right time.
+
+2021-08-21 18:21:19.798528 - The time is right, sending e-mail.
+
+2021-08-21 18:21:20.449251 - There was an error sending the message.
+Error Code: 535. Error Message: b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials i19sm5553382qka.53 - gsmtp'
+
+2021-08-21 18:21:32.474838 - The time is right, sending e-mail.
+
+2021-08-21 18:21:33.403092 - E-mail Sent.
+
+2021-08-21 18:22:16.619565 - The ISS is not close.
+
+2021-08-21 18:23:16.852928 - The ISS is not close.
+
+2021-08-21 18:24:17.092456 - The ISS is not close.
+
+2021-08-21 18:25:17.295661 - The ISS is not close.
+
+2021-08-21 18:26:17.525409 - The ISS is not close.
+
